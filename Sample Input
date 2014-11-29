@@ -1,0 +1,14 @@
+b=10
+c = 9.8
+bc = "kol"
+<- PRINTING B @ \n :b
+abc= "asfliuh"
+<- print @  \n:abc
+in z
+z = 9
+<- something @ \n:z
+<- PRINTING B @  \n:abc
+<- just
+<- @  \n:abc
+<- @  \n:bc
+<- @  \n:c
